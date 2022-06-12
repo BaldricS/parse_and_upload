@@ -2,3 +2,7 @@ client_secrets.json
 venv/
 __pycache__
 *.swp
+*.log
+*.log.mbtree
+*.log.temp
+*.log.mbtree.temp
